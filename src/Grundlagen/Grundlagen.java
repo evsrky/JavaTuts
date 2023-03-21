@@ -1,3 +1,5 @@
+package Grundlagen;
+
 public class Grundlagen {
     // 8 primitive Datentypen in Java
     /*
